@@ -52,11 +52,12 @@ Engineering management versions of Ben Horowitz's [Good Product Manager, Bad Pro
 
 ## Books
 
+* [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.com/gp/product/1491973897/ref=ox_sc_act_title_1?ie=UTF8&psc=1&smid=ATVPDKIKX0DER)
 * [Startup Engineering Management](http://books.piaw.net/management/index.html)
 
 ## Resources
 
-* [re:Work from Google](https://rework.withgoogle.com) - A collection of actionable tasks, case studies and guides for managers.
+* [re:Work from Google](https://rework.withgoogle.com/subjects/managers/) - A collection of actionable tasks, case studies and guides for managers.
 
 * [Bruce Tuckman's 1965 Forming Storming Norming Performing team-development model](http://www.businessballs.com/tuckmanformingstormingnormingperforming.htm)
 

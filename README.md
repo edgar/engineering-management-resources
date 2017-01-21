@@ -55,6 +55,10 @@ Engineering management versions of Ben Horowitz's [Good Product Manager, Bad Pro
 * [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.com/gp/product/1491973897/ref=ox_sc_act_title_1?ie=UTF8&psc=1&smid=ATVPDKIKX0DER)
 * [Startup Engineering Management](http://books.piaw.net/management/index.html)
 
+## Courses / Workshops
+
+* [Orbital's Engineering Management Studio](https://orbital.nyc/communities-of-practice/)
+
 ## Resources
 
 * [re:Work from Google](https://rework.withgoogle.com/subjects/managers/) - A collection of actionable tasks, case studies and guides for managers.
@@ -63,3 +67,4 @@ Engineering management versions of Ben Horowitz's [Good Product Manager, Bad Pro
 
 * [Occupational Employment Statistics, May 2014, Engineering and Architectural Managers](
 http://www.bls.gov/oes/current/oes119041.htm#%285%29)
+
